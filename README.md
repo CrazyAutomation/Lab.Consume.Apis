@@ -1,10 +1,12 @@
 # Lab.Consume.Apis
 TFL ROAD Corridor client( https://api.tfl.gov.uk/Road/roadId):
 
-Instructions to Build and Run the Tfl.RoadCorridorsApi.Client; written in .NET Core Framework 2.1 and Nunit Framework and Moq
+Instructions to Build and Run the Tfl.RoadCorridorsApi.Client; written in .NET Core Framework 2.1,C# 7.1 and Nunit Framework and Moq
 
 Q: How to build the code?
-A: Visual Studio 2017
+A:  Download the code at https://github.com/pramireddy/Lab.Consume.Apis/tree/master/Lab.Consume.Apis
+    and open the soultion in in Visual Studio 2017.
+    
 Q: How to run the output
 A: 
 
